@@ -1,38 +1,26 @@
-## Welcome to GitHub Pages
+# PERSONAL RESUME 
 
-You can use the [editor on GitHub](https://github.com/Meowming/meowming.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Basic Information
+**Name:** Deming Zhu **
+**Sex** Male
+**Nationality:** China 
+**Date of Birth:** Feburary,2 1998
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education Background
+2013-2016: Beijing No. 80 Highschool
+2016-current: University of California, Irvine
+Major: CSE
+GPA: 3.43
 
-### Markdown
+## Programming Ability
+Experienced in C/C++ C#
+Familiar with Java Python Javascript
+Limited Ability in html css
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A game project of tank simulation(Unity3d)
+An Andriod app for garage management
+Website building experience(animeets.com,10th grade,closed)
 
-
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meowming/meowming.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Designing Ability
+Experienced in 3dmax
+Familiar with SketchUp Blender
