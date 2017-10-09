@@ -1,7 +1,7 @@
 # PERSONAL RESUME 
 
 ## Basic Information
-**Name:** Deming Zhu **
+**Name:** Deming Zhu
 **Sex** Male
 **Nationality:** China 
 **Date of Birth:** Feburary,2 1998
